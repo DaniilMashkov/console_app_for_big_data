@@ -1,0 +1,6 @@
+.pyc
+cache/
+.idea
+__pycache__
+.coverage
+.vscode
